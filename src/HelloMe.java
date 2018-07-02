@@ -3,6 +3,8 @@ public class HelloMe {
         System.out.println("LOL");
         System.out.println("LOL");
         System.out.println("Duzo nauki");
+        System.out.println("Duzo nauki");
+        System.out.println("Duzo nauki");
         System.out.println("LOL");
 
     }
